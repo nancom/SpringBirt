@@ -4,6 +4,17 @@
 <br/>
 2. apache tomcat 7.x download from http://tomcat.apache.org/
 <br/>
+3. Git client 
+<br/>
+<br/>
+<b>-= Get Sources code=-</b>
+<br/>
+1. use git client get source code from command "git clone"
+<br/>
+or
+<br/>
+get zip file from 
+<br/>
 <br/>
 <b>-= Configuration =-</b>
 <br/>
