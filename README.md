@@ -9,11 +9,11 @@
 <br/>
 <b>-= Get Sources code=-</b>
 <br/>
-1. use git client get source code from command "git clone"
+1. use git client get source code from command "git clone git://github.com/nancom/SpringBirt.git" to disire derectory
 <br/>
 or
-<br/>
-get zip file from 
+<br>
+Download from Zip button
 <br/>
 <br/>
 <b>-= Configuration =-</b>
