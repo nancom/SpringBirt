@@ -46,7 +46,7 @@ Download from Zip button
 <br/>
 3. input command "mvn clean compile package cargo:redeploy"
 <br/>
-4. after process finish open web browser and input "http://localhost:8014/SpringBirt"
+4. after process finish open web browser and input "http://localhost:8014/SpringBirtReport"
 <br/>
 5. !! Enjoy !!
 
