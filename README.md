@@ -1,10 +1,12 @@
 <b>-= Pre requisit software =- </b>
 <br/>
-1. apache maven 3.0.x download from http://maven.apache.org/
+1. java sdk download from http://www.oracle.com/technetwork/java/javase/downloads/index.html
+<br>
+2. apache maven 3.0.x download from http://maven.apache.org/
 <br/>
-2. apache tomcat 7.x download from http://tomcat.apache.org/
+3. apache tomcat 7.x download from http://tomcat.apache.org/
 <br/>
-3. Git client 
+4. Git client [if need] 
 <br/>
 <br/>
 <b>-= Get Sources code=-</b>
