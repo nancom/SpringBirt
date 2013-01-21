@@ -49,3 +49,8 @@ Download from Zip button
 4. after process finish open web browser and input "http://localhost:8014/SpringBirt"
 <br/>
 5. !! Enjoy !!
+
+<br/>
+* if you nee to add new report (.rptdesign files) place into src/main/resources/Reports/ directory and run command
+<br/> 
+"mvn clean compile package cargo:redeploy" for redeploy again
